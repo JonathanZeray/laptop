@@ -1,0 +1,19 @@
+body {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: ivory;
+}
+
+canvas {
+    height: 100vh;
+    width: 100vw;
+}
+
+.laptop > iframe{
+    width: 1024px;
+    height: 670px;
+    border-radius: 12px;
+}
